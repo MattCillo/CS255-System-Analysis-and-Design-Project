@@ -19,7 +19,7 @@ I would revise the system's adaptability limitations regarding package managemen
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-I interpreted the users' needs by segmenting the interface requirements based on their distinct operational roles. For instance, the student dashboard was designed as a self-service hub featuring an online test progress widget and driver notes, while the secretary view focused on scheduling support, and the owner view centered on generating Excel-compatible reports. Considering user needs is critical because a system that fails to align with the end-users' daily workflows—such as the requirement for mobile responsiveness for students versus desktop monitor optimization for office staff—will suffer from low adoption and fail to solve the underlying business problem.
+I interpreted the users' needs by segmenting the interface requirements based on their distinct operational roles. For instance, the student dashboard was designed as a self-service hub featuring an online test progress widget and driver notes, while the secretary view focused on scheduling support, and the owner view centered on generating Excel-compatible reports. Considering user needs is critical because a system that fails to align with the end-users' daily workflows such as the requirement for mobile responsiveness for students versus desktop monitor optimization for office staff—will suffer from low adoption and fail to solve the underlying business problem.
 
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
